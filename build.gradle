@@ -29,9 +29,9 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok:1.18.22'
 	annotationProcessor 'org.projectlombok:lombok:1.18.22'
     //ACF
-    compileOnly 'co.aikar:acf-paper:0.5.0-SNAPSHOT'
+    implementation 'co.aikar:acf-paper:0.5.1-SNAPSHOT'
     //TASKS CHAINS
-    compileOnly 'co.aikar:taskchain-bukkit:3.7.2'
+    implementation 'co.aikar:taskchain-bukkit:3.7.2'
 
 }
 
